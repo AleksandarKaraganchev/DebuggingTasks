@@ -1,0 +1,8 @@
+D:\Програмиране\DebugvaneIRedNaIzpulnenie\PochivniDniMejduDveDati\bin\Debug\PochivniDniMejduDveDati.exe.config
+D:\Програмиране\DebugvaneIRedNaIzpulnenie\PochivniDniMejduDveDati\bin\Debug\PochivniDniMejduDveDati.exe
+D:\Програмиране\DebugvaneIRedNaIzpulnenie\PochivniDniMejduDveDati\bin\Debug\PochivniDniMejduDveDati.pdb
+D:\Програмиране\DebugvaneIRedNaIzpulnenie\PochivniDniMejduDveDati\obj\Debug\PochivniDniMejduDveDati.csproj.AssemblyReference.cache
+D:\Програмиране\DebugvaneIRedNaIzpulnenie\PochivniDniMejduDveDati\obj\Debug\PochivniDniMejduDveDati.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\DebugvaneIRedNaIzpulnenie\PochivniDniMejduDveDati\obj\Debug\PochivniDniMejduDveDati.csproj.CoreCompileInputs.cache
+D:\Програмиране\DebugvaneIRedNaIzpulnenie\PochivniDniMejduDveDati\obj\Debug\PochivniDniMejduDveDati.exe
+D:\Програмиране\DebugvaneIRedNaIzpulnenie\PochivniDniMejduDveDati\obj\Debug\PochivniDniMejduDveDati.pdb

@@ -1,0 +1,8 @@
+D:\Програмиране\DebugvaneIRedNaIzpulnenie\PriceChangeAlert\bin\Debug\PriceChangeAlert.exe.config
+D:\Програмиране\DebugvaneIRedNaIzpulnenie\PriceChangeAlert\bin\Debug\PriceChangeAlert.exe
+D:\Програмиране\DebugvaneIRedNaIzpulnenie\PriceChangeAlert\bin\Debug\PriceChangeAlert.pdb
+D:\Програмиране\DebugvaneIRedNaIzpulnenie\PriceChangeAlert\obj\Debug\PriceChangeAlert.csproj.AssemblyReference.cache
+D:\Програмиране\DebugvaneIRedNaIzpulnenie\PriceChangeAlert\obj\Debug\PriceChangeAlert.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\DebugvaneIRedNaIzpulnenie\PriceChangeAlert\obj\Debug\PriceChangeAlert.csproj.CoreCompileInputs.cache
+D:\Програмиране\DebugvaneIRedNaIzpulnenie\PriceChangeAlert\obj\Debug\PriceChangeAlert.exe
+D:\Програмиране\DebugvaneIRedNaIzpulnenie\PriceChangeAlert\obj\Debug\PriceChangeAlert.pdb
